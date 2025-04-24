@@ -9,7 +9,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/api/portfolios")
+@RequestMapping("/api/portofolios")
 public class UserPortfolioController {
     private static final Logger log = LoggerFactory.getLogger(PriceListener.class);
 
